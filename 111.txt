@@ -1,8 +1,1 @@
-hihihi
-
-
-
-for i <10 and i >0;
-j = 10-i
-print (j)
-
+new version
